@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phakin School</title>
+    <style>
+        body { font-family: Arial; text-align: center; background-color: #f0f8ff; padding: 20px; }
+        h1 { color: #3333cc; }
+        table { margin: auto; border-collapse: collapse; width: 60%; }
+        th, td { border: 1px solid #333; padding: 10px; }
+        th { background-color: #cce0ff; }
+        a { color: #3333cc; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <h1>Phakin School</h1>
+    <table>
+        <tr>
+            <th>ชื่อ</th>
+            <th>เลขที่</th>
+            <th>เอกสาร</th>
+        </tr>
+        <tr>
+            <td>ด.ช.เพชร</td>
+            <td>1</td>
+            <td><a href="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" target="_blank">เปิดไฟล์ PDF</a></td>
+        </tr>
+        <tr>
+            <td>ด.ช.กฤษ</td>
+            <td>2</td>
+            <td><a href="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" target="_blank">เปิดไฟล์ PDF</a></td>
+        </tr>
+    </table>
+</body>
+</html>
